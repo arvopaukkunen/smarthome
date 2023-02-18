@@ -1,0 +1,5 @@
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/bin/Release/net7.0/publish/HelloWorld
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/bin/Release/net7.0/publish/HelloWorld.dll
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/bin/Release/net7.0/publish/HelloWorld.deps.json
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/bin/Release/net7.0/publish/HelloWorld.runtimeconfig.json
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/bin/Release/net7.0/publish/HelloWorld.pdb

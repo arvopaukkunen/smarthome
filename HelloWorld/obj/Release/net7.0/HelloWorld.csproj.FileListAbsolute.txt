@@ -1,0 +1,15 @@
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/bin/Release/net7.0/HelloWorld
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/bin/Release/net7.0/HelloWorld.deps.json
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/bin/Release/net7.0/HelloWorld.runtimeconfig.json
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/bin/Release/net7.0/HelloWorld.dll
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/bin/Release/net7.0/HelloWorld.pdb
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.dll
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/Release/net7.0/refint/HelloWorld.dll
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.pdb
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/Release/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/Release/net7.0/ref/HelloWorld.dll
