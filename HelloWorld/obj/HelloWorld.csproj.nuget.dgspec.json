@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/HelloWorld.csproj": {}
+    "/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/HelloWorld.csproj": {
+    "/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/Users/arvo.paukkunen/.nuget/packages/",
-        "outputPath": "/Users/arvo.paukkunen/Projects/HelloWorld/HelloWorld/obj/",
+        "outputPath": "/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arvo.paukkunen/.nuget/NuGet/NuGet.Config"
