@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{9919D6FC-0DD4-4F7F-982A-10169572ADAA}|Default" GitUserInfo="UsingGIT">
+﻿<Properties StartupConfiguration="{7FF09941-D3B7-4B72-BA85-4498BBE24FBF}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Agent PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/Program.cs">
     <Files>
       <File FileName="HelloWorld/Program.cs" Line="4" Column="6" />

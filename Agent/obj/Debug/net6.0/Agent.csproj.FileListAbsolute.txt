@@ -1,0 +1,15 @@
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/bin/Debug/net6.0/Agent
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/bin/Debug/net6.0/Agent.deps.json
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/bin/Debug/net6.0/Agent.runtimeconfig.json
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/bin/Debug/net6.0/Agent.dll
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/bin/Debug/net6.0/Agent.pdb
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/obj/Debug/net6.0/Agent.csproj.AssemblyReference.cache
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/obj/Debug/net6.0/Agent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/obj/Debug/net6.0/Agent.AssemblyInfoInputs.cache
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/obj/Debug/net6.0/Agent.AssemblyInfo.cs
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/obj/Debug/net6.0/Agent.csproj.CoreCompileInputs.cache
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/obj/Debug/net6.0/Agent.dll
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/obj/Debug/net6.0/refint/Agent.dll
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/obj/Debug/net6.0/Agent.pdb
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/obj/Debug/net6.0/Agent.genruntimeconfig.cache
+/Users/arvo.paukkunen/Projects/smarthome/HelloWorld/Agent/obj/Debug/net6.0/ref/Agent.dll
